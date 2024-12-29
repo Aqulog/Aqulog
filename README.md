@@ -4,18 +4,6 @@
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
-
-<h4 align="center">FrontEnd</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/Vue.js-181717?style=flat&logo=Vue.js&logoColor=4FC08D&color=white" alt="Vue.js" />&nbsp
-  <img src="https://img.shields.io/badge/HTML5-181717?style=flat&logo=html5&logoColor=E34F26&color=white" alt="HTML5" />&nbsp
-  <img src="https://img.shields.io/badge/CSS3-181717?style=flat&logo=css3&logoColor=1572B6&color=white" alt="CSS3" />&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-181717?style=flat&logo=javascript&logoColor=F7DF1E&color=white" alt="JavaScript" />&nbsp
-  <img src="https://img.shields.io/badge/Nginx-181717?style=flat&logo=nginx&logoColor=009639&color=white" alt="Nginx" />&nbsp
-  <img src="https://img.shields.io/badge/Axios-181717?style=flat&logo=axios&logoColor=5A29E4&color=white" alt="Axios" />&nbsp
-  <img src="https://img.shields.io/badge/Pinia-181717?style=flat&logo=pinia&logoColor=FEDD00&color=white" alt="Pinia" />&nbsp
-</div>
-
 <br>
 
 <h4 align="center">BackEnd</h4>
@@ -31,6 +19,18 @@
 </div>
 
 <br>
+<h4 align="center">FrontEnd</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/Vue.js-181717?style=flat&logo=Vue.js&logoColor=4FC08D&color=white" alt="Vue.js" />&nbsp
+  <img src="https://img.shields.io/badge/HTML5-181717?style=flat&logo=html5&logoColor=E34F26&color=white" alt="HTML5" />&nbsp
+  <img src="https://img.shields.io/badge/CSS3-181717?style=flat&logo=css3&logoColor=1572B6&color=white" alt="CSS3" />&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-181717?style=flat&logo=javascript&logoColor=F7DF1E&color=white" alt="JavaScript" />&nbsp
+  <img src="https://img.shields.io/badge/Nginx-181717?style=flat&logo=nginx&logoColor=009639&color=white" alt="Nginx" />&nbsp
+  <img src="https://img.shields.io/badge/Axios-181717?style=flat&logo=axios&logoColor=5A29E4&color=white" alt="Axios" />&nbsp
+  <img src="https://img.shields.io/badge/Pinia-181717?style=flat&logo=pinia&logoColor=FEDD00&color=white" alt="Pinia" />&nbsp
+</div>
+
+
 
 <h4 align="center">DB</h4>
 <div align="center">
